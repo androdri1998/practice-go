@@ -20,6 +20,6 @@ Based on YouTube Playlist [Aprenda GO](https://www.youtube.com/playlist?list=PLC
 
 ## Challengers
 
-| Folder                                                                                                                                          | Chapter   | Description  | Subject      |
-| ----------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ------------ | ------------ |
-| [chapter-6-challenger-1](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/challengers/chapter-6-challenger-1/main.go) | Chapter 6 | Challenger 1 | Control flow |
+| Folder                                                                                                                                       | Chapter   | Description | Subject      |
+| -------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ----------- | ------------ |
+| [chapter-6-challenge-1](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/challenges/chapter-6-challenge-1/main.go) | Chapter 6 | Challenge 1 | Control flow |
