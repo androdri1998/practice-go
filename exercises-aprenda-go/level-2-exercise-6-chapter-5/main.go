@@ -3,11 +3,11 @@ package main
 import "fmt"
 
 const (
-	_           = iota
-	first_year  = iota
-	second_year = iota
-	third_year  = iota
-	fourth_year = iota
+	_ = 2023 + iota
+	first_year
+	second_year
+	third_year
+	fourth_year
 )
 
 func main() {
