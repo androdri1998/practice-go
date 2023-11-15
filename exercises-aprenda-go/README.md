@@ -19,6 +19,8 @@ Based on YouTube Playlist [Aprenda GO](https://www.youtube.com/playlist?list=PLC
 | [level-2-exercise-6-chapter-5](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-2-exercise-6-chapter-5/main.go) | Chapter 5 | Level 2 | exercise 6  | Programming fundamentals   |
 | [level-3-exercise-1-chapter-7](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-3-exercise-1-chapter-7/main.go) | Chapter 7 | Level 3 | exercise 1  | Control Flow               |
 | [level-3-exercise-2-chapter-7](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-3-exercise-2-chapter-7/main.go) | Chapter 7 | Level 3 | exercise 2  | Control Flow               |
+| [level-3-exercise-3-chapter-7](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-3-exercise-3-chapter-7/main.go) | Chapter 7 | Level 3 | exercise 3  | Control Flow               |
+| [level-3-exercise-4-chapter-7](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-3-exercise-4-chapter-7/main.go) | Chapter 7 | Level 3 | exercise 4  | Control Flow               |
 
 ## Challenges
 
