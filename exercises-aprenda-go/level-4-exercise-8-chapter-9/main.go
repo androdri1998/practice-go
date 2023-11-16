@@ -4,9 +4,9 @@ import "fmt"
 
 func main() {
 	hashTable := map[string][]string{
-		"name_lastname1": []string{"hobbie 1", "hobbie 2", "hobbie 3"},
-		"name_lastname2": []string{"hobbie 4", "hobbie 5", "hobbie 6"},
-		"name_lastname3": []string{"hobbie 7", "hobbie 8", "hobbie 9"},
+		"name_lastname1": {"hobbie 1", "hobbie 2", "hobbie 3"},
+		"name_lastname2": {"hobbie 4", "hobbie 5", "hobbie 6"},
+		"name_lastname3": {"hobbie 7", "hobbie 8", "hobbie 9"},
 	}
 
 	for person, hobbies := range hashTable {
