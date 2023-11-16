@@ -31,6 +31,7 @@ Based on YouTube Playlist [Aprenda GO](https://www.youtube.com/playlist?list=PLC
 | [level-4-exercise-2-chapter-9](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-4-exercise-2-chapter-9/main.go)   | Chapter 9 | Level 4 | exercise 2  | Grouping Data              |
 | [level-4-exercise-3-chapter-9](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-4-exercise-3-chapter-9/main.go)   | Chapter 9 | Level 4 | exercise 3  | Grouping Data              |
 | [level-4-exercise-4-chapter-9](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-4-exercise-4-chapter-9/main.go)   | Chapter 9 | Level 4 | exercise 4  | Grouping Data              |
+| [level-4-exercise-5-chapter-9](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-4-exercise-5-chapter-9/main.go)   | Chapter 9 | Level 4 | exercise 5  | Grouping Data              |
 
 ## Challenges
 
