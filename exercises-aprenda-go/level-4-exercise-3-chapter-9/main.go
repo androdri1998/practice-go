@@ -9,7 +9,7 @@ func main() {
 		list[index-1] = index * 2
 	}
 
-	fmt.Println(list[0:3])
+	fmt.Println(list[:3])
 	fmt.Println(list[4:])
 	fmt.Println(list[1:8])
 	fmt.Println(list[2 : len(list)-1])
