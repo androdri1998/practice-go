@@ -11,6 +11,6 @@ func main() {
 
 	fmt.Println(list[:3])
 	fmt.Println(list[4:])
-	fmt.Println(list[1:8])
+	fmt.Println(list[1:7])
 	fmt.Println(list[2 : len(list)-1])
 }
