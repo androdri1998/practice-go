@@ -25,20 +25,27 @@ Based on YouTube Playlist [Aprenda GO](https://www.youtube.com/playlist?list=PLC
 | [exercise-5](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-2/chapter-5/exercise-5/main.go) | Chapter 5 | Level 2 | exercise 5  | Programming fundamentals |
 | [exercise-6](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-2/chapter-5/exercise-6/main.go) | Chapter 5 | Level 2 | exercise 6  | Programming fundamentals |
 
+### Level 3
+
+| Folder                                                                                                                          | Chapter   | Level   | Description | Subject      |
+| ------------------------------------------------------------------------------------------------------------------------------- | --------- | ------- | ----------- | ------------ |
+| [exercise-1](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-3/chapter-7/exercise-1/main.go)   | Chapter 7 | Level 3 | exercise 1  | Control Flow |
+| [exercise-2](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-3/chapter-7/exercise-2/main.go)   | Chapter 7 | Level 3 | exercise 2  | Control Flow |
+| [exercise-3](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-3/chapter-7/exercise-3/main.go)   | Chapter 7 | Level 3 | exercise 3  | Control Flow |
+| [exercise-4](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-3/chapter-7/exercise-4/main.go)   | Chapter 7 | Level 3 | exercise 4  | Control Flow |
+| [exercise-5](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-3/chapter-7/exercise-5/main.go)   | Chapter 7 | Level 3 | exercise 5  | Control Flow |
+| [exercise-6](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-3/chapter-7/exercise-6/main.go)   | Chapter 7 | Level 3 | exercise 6  | Control Flow |
+| [exercise-7](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-3/chapter-7/exercise-7/main.go)   | Chapter 7 | Level 3 | exercise 7  | Control Flow |
+| [exercise-8](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-3/chapter-7/exercise-8/main.go)   | Chapter 7 | Level 3 | exercise 8  | Control Flow |
+| [exercise-9](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-3/chapter-7/exercise-9/main.go)   | Chapter 7 | Level 3 | exercise 9  | Control Flow |
+| [exercise-10](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-3/chapter-7/exercise-10/main.go) | Chapter 7 | Level 3 | exercise 10 | Control Flow |
+
 ### Another exercises
 
 | Folder                                                                                                                                              | Chapter    | Level   | Description | Subject       |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------- | ----------- | ------------- |
 | [level-3-exercise-1-chapter-7](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-3-exercise-1-chapter-7/main.go)     | Chapter 7  | Level 3 | exercise 1  | Control Flow  |
 | [level-3-exercise-2-chapter-7](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-3-exercise-2-chapter-7/main.go)     | Chapter 7  | Level 3 | exercise 2  | Control Flow  |
-| [level-3-exercise-3-chapter-7](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-3-exercise-3-chapter-7/main.go)     | Chapter 7  | Level 3 | exercise 3  | Control Flow  |
-| [level-3-exercise-4-chapter-7](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-3-exercise-4-chapter-7/main.go)     | Chapter 7  | Level 3 | exercise 4  | Control Flow  |
-| [level-3-exercise-5-chapter-7](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-3-exercise-5-chapter-7/main.go)     | Chapter 7  | Level 3 | exercise 5  | Control Flow  |
-| [level-3-exercise-6-chapter-7](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-3-exercise-6-chapter-7/main.go)     | Chapter 7  | Level 3 | exercise 6  | Control Flow  |
-| [level-3-exercise-7-chapter-7](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-3-exercise-7-chapter-7/main.go)     | Chapter 7  | Level 3 | exercise 7  | Control Flow  |
-| [level-3-exercise-8-chapter-7](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-3-exercise-8-chapter-7/main.go)     | Chapter 7  | Level 3 | exercise 8  | Control Flow  |
-| [level-3-exercise-9-chapter-7](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-3-exercise-9-chapter-7/main.go)     | Chapter 7  | Level 3 | exercise 9  | Control Flow  |
-| [level-3-exercise-10-chapter-7](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-3-exercise-10-chapter-7/main.go)   | Chapter 7  | Level 3 | exercise 10 | Control Flow  |
 | [level-4-exercise-1-chapter-9](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-4-exercise-1-chapter-9/main.go)     | Chapter 9  | Level 4 | exercise 1  | Grouping Data |
 | [level-4-exercise-2-chapter-9](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-4-exercise-2-chapter-9/main.go)     | Chapter 9  | Level 4 | exercise 2  | Grouping Data |
 | [level-4-exercise-3-chapter-9](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-4-exercise-3-chapter-9/main.go)     | Chapter 9  | Level 4 | exercise 3  | Grouping Data |
