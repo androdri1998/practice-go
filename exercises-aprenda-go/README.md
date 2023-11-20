@@ -46,6 +46,7 @@ Based on YouTube Playlist [Aprenda GO](https://www.youtube.com/playlist?list=PLC
 | [level-6-exercise-3-chapter-13](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-6-exercise-3-chapter-13/main.go) | Chapter 13 | Level 6 | exercise 3  | Functions                  |
 | [level-6-exercise-4-chapter-13](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-6-exercise-4-chapter-13/main.go) | Chapter 13 | Level 6 | exercise 4  | Functions                  |
 | [level-6-exercise-5-chapter-13](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-6-exercise-5-chapter-13/main.go) | Chapter 13 | Level 6 | exercise 5  | Functions                  |
+| [level-6-exercise-6-chapter-13](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-6-exercise-6-chapter-13/main.go) | Chapter 13 | Level 6 | exercise 6  | Functions                  |
 
 ## Challenges
 
