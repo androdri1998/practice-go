@@ -79,12 +79,12 @@ Based on YouTube Playlist [Aprenda GO](https://www.youtube.com/playlist?list=PLC
 | [exercise-9](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-6/chapter-13/exercise-9/main.go)   | Chapter 13 | Level 6 | exercise 9  | Functions |
 | [exercise-10](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-6/chapter-13/exercise-10/main.go) | Chapter 13 | Level 6 | exercise 10 | Functions |
 
-### Another exercises
+### Level 7
 
-| Folder                                                                                                                                            | Chapter    | Level   | Description | Subject   |
-| ------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------- | ----------- | --------- |
-| [level-7-exercise-1-chapter-15](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-7-exercise-1-chapter-15/main.go) | Chapter 15 | Level 7 | exercise 1  | Functions |
-| [level-7-exercise-2-chapter-15](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-7-exercise-2-chapter-15/main.go) | Chapter 15 | Level 7 | exercise 2  | Functions |
+| Folder                                                                                                                         | Chapter    | Level   | Description | Subject   |
+| ------------------------------------------------------------------------------------------------------------------------------ | ---------- | ------- | ----------- | --------- |
+| [exercise-1](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-7/chapter-15/exercise-1/main.go) | Chapter 15 | Level 7 | exercise 1  | Functions |
+| [exercise-2](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-7/chapter-15/exercise-2/main.go) | Chapter 15 | Level 7 | exercise 2  | Functions |
 
 ## Challenges
 
