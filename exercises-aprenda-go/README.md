@@ -64,22 +64,27 @@ Based on YouTube Playlist [Aprenda GO](https://www.youtube.com/playlist?list=PLC
 | [exercise-3](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-5/chapter-11/exercise-3/main.go) | Chapter 11 | Level 5 | exercise 3  | Structs |
 | [exercise-4](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-5/chapter-11/exercise-4/main.go) | Chapter 11 | Level 5 | exercise 4  | Structs |
 
+### Level 6
+
+| Folder                                                                                                                           | Chapter    | Level   | Description | Subject   |
+| -------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------- | ----------- | --------- |
+| [exercise-1](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-6/chapter-13/exercise-1/main.go)   | Chapter 13 | Level 6 | exercise 1  | Functions |
+| [exercise-2](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-6/chapter-13/exercise-2/main.go)   | Chapter 13 | Level 6 | exercise 2  | Functions |
+| [exercise-3](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-6/chapter-13/exercise-3/main.go)   | Chapter 13 | Level 6 | exercise 3  | Functions |
+| [exercise-4](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-6/chapter-13/exercise-4/main.go)   | Chapter 13 | Level 6 | exercise 4  | Functions |
+| [exercise-5](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-6/chapter-13/exercise-5/main.go)   | Chapter 13 | Level 6 | exercise 5  | Functions |
+| [exercise-6](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-6/chapter-13/exercise-6/main.go)   | Chapter 13 | Level 6 | exercise 6  | Functions |
+| [exercise-7](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-6/chapter-13/exercise-7/main.go)   | Chapter 13 | Level 6 | exercise 7  | Functions |
+| [exercise-8](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-6/chapter-13/exercise-8/main.go)   | Chapter 13 | Level 6 | exercise 8  | Functions |
+| [exercise-9](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-6/chapter-13/exercise-9/main.go)   | Chapter 13 | Level 6 | exercise 9  | Functions |
+| [exercise-10](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-6/chapter-13/exercise-10/main.go) | Chapter 13 | Level 6 | exercise 10 | Functions |
+
 ### Another exercises
 
-| Folder                                                                                                                                              | Chapter    | Level   | Description | Subject   |
-| --------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------- | ----------- | --------- |
-| [level-6-exercise-1-chapter-13](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-6-exercise-1-chapter-13/main.go)   | Chapter 13 | Level 6 | exercise 1  | Functions |
-| [level-6-exercise-2-chapter-13](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-6-exercise-2-chapter-13/main.go)   | Chapter 13 | Level 6 | exercise 2  | Functions |
-| [level-6-exercise-3-chapter-13](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-6-exercise-3-chapter-13/main.go)   | Chapter 13 | Level 6 | exercise 3  | Functions |
-| [level-6-exercise-4-chapter-13](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-6-exercise-4-chapter-13/main.go)   | Chapter 13 | Level 6 | exercise 4  | Functions |
-| [level-6-exercise-5-chapter-13](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-6-exercise-5-chapter-13/main.go)   | Chapter 13 | Level 6 | exercise 5  | Functions |
-| [level-6-exercise-6-chapter-13](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-6-exercise-6-chapter-13/main.go)   | Chapter 13 | Level 6 | exercise 6  | Functions |
-| [level-6-exercise-7-chapter-13](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-6-exercise-7-chapter-13/main.go)   | Chapter 13 | Level 6 | exercise 7  | Functions |
-| [level-6-exercise-8-chapter-13](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-6-exercise-8-chapter-13/main.go)   | Chapter 13 | Level 6 | exercise 8  | Functions |
-| [level-6-exercise-9-chapter-13](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-6-exercise-9-chapter-13/main.go)   | Chapter 13 | Level 6 | exercise 9  | Functions |
-| [level-6-exercise-10-chapter-13](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-6-exercise-10-chapter-13/main.go) | Chapter 13 | Level 6 | exercise 10 | Functions |
-| [level-7-exercise-1-chapter-15](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-7-exercise-1-chapter-15/main.go)   | Chapter 15 | Level 7 | exercise 1  | Functions |
-| [level-7-exercise-2-chapter-15](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-7-exercise-2-chapter-15/main.go)   | Chapter 15 | Level 7 | exercise 2  | Functions |
+| Folder                                                                                                                                            | Chapter    | Level   | Description | Subject   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------- | ----------- | --------- |
+| [level-7-exercise-1-chapter-15](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-7-exercise-1-chapter-15/main.go) | Chapter 15 | Level 7 | exercise 1  | Functions |
+| [level-7-exercise-2-chapter-15](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-7-exercise-2-chapter-15/main.go) | Chapter 15 | Level 7 | exercise 2  | Functions |
 
 ## Challenges
 
