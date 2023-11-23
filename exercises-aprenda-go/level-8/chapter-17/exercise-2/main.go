@@ -19,6 +19,10 @@ func main() {
 	var people []Person
 
 	fmt.Println(people)
-	json.Unmarshal([]byte(values), &people)
+	err := json.Unmarshal([]byte(values), &people)
+	if err != nil {
+		fmt.Println(err)
+		return
+	}
 	fmt.Println(people)
 }
