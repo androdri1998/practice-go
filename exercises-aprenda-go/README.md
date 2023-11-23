@@ -93,6 +93,7 @@ Based on YouTube Playlist [Aprenda GO](https://www.youtube.com/playlist?list=PLC
 | [exercise-1](level-8/chapter-17/exercise-1/main.go) | Chapter 17 | Level 8 | exercise 1  | Applications |
 | [exercise-2](level-8/chapter-17/exercise-2/main.go) | Chapter 17 | Level 8 | exercise 2  | Applications |
 | [exercise-3](level-8/chapter-17/exercise-3/main.go) | Chapter 17 | Level 8 | exercise 3  | Applications |
+| [exercise-4](level-8/chapter-17/exercise-4/main.go) | Chapter 17 | Level 8 | exercise 4  | Applications |
 
 ## Challenges
 
