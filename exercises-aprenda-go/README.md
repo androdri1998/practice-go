@@ -86,6 +86,12 @@ Based on YouTube Playlist [Aprenda GO](https://www.youtube.com/playlist?list=PLC
 | [exercise-1](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-7/chapter-15/exercise-1/main.go) | Chapter 15 | Level 7 | exercise 1  | Functions |
 | [exercise-2](https://github.com/androdri1998/practice-go/tree/main/exercises-aprenda-go/level-7/chapter-15/exercise-2/main.go) | Chapter 15 | Level 7 | exercise 2  | Functions |
 
+### Level 8
+
+| Folder                                              | Chapter    | Level   | Description | Subject      |
+| --------------------------------------------------- | ---------- | ------- | ----------- | ------------ |
+| [exercise-1](level-8/chapter-17/exercise-1/main.go) | Chapter 17 | Level 8 | exercise 1  | Applications |
+
 ## Challenges
 
 | Folder                                                                                                                             | Chapter   | Description | Subject       |
