@@ -96,6 +96,12 @@ Based on YouTube Playlist [Aprenda GO](https://www.youtube.com/playlist?list=PLC
 | [exercise-4](level-8/chapter-17/exercise-4/main.go) | Chapter 17 | Level 8 | exercise 4  | Applications |
 | [exercise-5](level-8/chapter-17/exercise-5/main.go) | Chapter 17 | Level 8 | exercise 5  | Applications |
 
+### Level 9
+
+| Folder                                              | Chapter    | Level   | Description | Subject        |
+| --------------------------------------------------- | ---------- | ------- | ----------- | -------------- |
+| [exercise-1](level-9/chapter-18/exercise-1/main.go) | Chapter 18 | Level 9 | exercise 1  | Go Concurrency |
+
 ## Challenges
 
 | Folder                                                                                                                             | Chapter   | Description | Subject       |
