@@ -1,13 +1,3 @@
-// create a counter
-// have a variable with value
-// create a go routine, that need:
-// - read value from counter
-// - save value
-// - to do a yield with runtime.Gosched
-// - increment value
-// - copy value to first variable
-// use Waitgroups
-// need to run go run -race main.go
 package main
 
 import (
