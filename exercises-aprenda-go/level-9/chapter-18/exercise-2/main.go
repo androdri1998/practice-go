@@ -1,10 +1,3 @@
-// create a struct called "person"
-// create a method to this struct called "speak" that receives a pointer (*person) as parameter
-// create an interface called "humans", that are implemented by type of method "speak"
-// create a function "saySomething" that receives as a parameter "humans" and call method "speak"
-// show in code:
-// that you are able to use a value of type "*person" at function "saySomething"
-// that you can't use a value of type "person" at function "saySomething"
 package main
 
 import "fmt"
