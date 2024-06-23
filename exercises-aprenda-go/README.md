@@ -109,10 +109,11 @@ Based on YouTube Playlist [Aprenda GO](https://www.youtube.com/playlist?list=PLC
 
 ### Level 10
 
-| Folder                                                                       | Chapter    | Level    | Description             | Subject |
-| ---------------------------------------------------------------------------- | ---------- | -------- | ----------------------- | ------- |
-| [exercise-1 - solution 1](level-10/chapter-22/exercise-1/solution-1/main.go) | Chapter 22 | Level 10 | exercise 1 - solution 1 | Channel |
-| [exercise-1 - solution 2](level-10/chapter-22/exercise-1/solution-2/main.go) | Chapter 22 | Level 10 | exercise 1 - solution 2 | Channel |
+| Folder                                                                       | Chapter    | Level    | Description             | Subject  |
+| ---------------------------------------------------------------------------- | ---------- | -------- | ----------------------- | -------- |
+| [exercise-1 - solution 1](level-10/chapter-22/exercise-1/solution-1/main.go) | Chapter 22 | Level 10 | exercise 1 - solution 1 | Channels |
+| [exercise-1 - solution 2](level-10/chapter-22/exercise-1/solution-2/main.go) | Chapter 22 | Level 10 | exercise 1 - solution 2 | Channels |
+| [exercise-2](level-10/chapter-22/exercise-2/main.go)                         | Chapter 22 | Level 10 | exercise 2              | Channels |
 
 ## Challenges
 
