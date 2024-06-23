@@ -11,14 +11,14 @@ func main() {
 	channel := genChannel()
 
 	wg.Add(1)
-	go receive(channel)
+	receive(channel)
 
 	wg.Wait()
 	fmt.Println("End of execution")
 }
 
 func genChannel() chan int {
-	channel := make(chan int, 100)
+	channel := make(chan int)
 
 	go func() {
 		defer close(channel)
