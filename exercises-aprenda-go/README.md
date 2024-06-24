@@ -117,6 +117,7 @@ Based on YouTube Playlist [Aprenda GO](https://www.youtube.com/playlist?list=PLC
 | [exercise-3](level-10/chapter-22/exercise-3/main.go)                         | Chapter 22 | Level 10 | exercise 3              | Channels |
 | [exercise-4](level-10/chapter-22/exercise-4/main.go)                         | Chapter 22 | Level 10 | exercise 4              | Channels |
 | [exercise-5](level-10/chapter-22/exercise-5/main.go)                         | Chapter 22 | Level 10 | exercise 5              | Channels |
+| [exercise-6](level-10/chapter-22/exercise-6/main.go)                         | Chapter 22 | Level 10 | exercise 6              | Channels |
 
 ## Challenges
 
