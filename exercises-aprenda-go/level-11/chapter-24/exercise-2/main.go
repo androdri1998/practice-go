@@ -1,4 +1,3 @@
-// create a custom error message
 package main
 
 import (
