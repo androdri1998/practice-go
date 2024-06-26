@@ -21,7 +21,7 @@ func main() {
 
 	valueInBytes, err := toJSON(p1)
 	if err != nil {
-		log.Println(fmt.Errorf("something wrong happen"))
+		log.Println(err)
 		return
 	}
 
@@ -32,5 +32,9 @@ func toJSON(p person) ([]byte, error) {
 
 	valueInBytes, err := json.Marshal(p)
 
-	return valueInBytes, err
+	if err != nil {
+		return []byte{}, fmt.Errorf("something wrong happen")
+	}
+
+	return valueInBytes, nil
 }
