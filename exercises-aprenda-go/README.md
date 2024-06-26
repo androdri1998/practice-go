@@ -120,6 +120,12 @@ Based on YouTube Playlist [Aprenda GO](https://www.youtube.com/playlist?list=PLC
 | [exercise-6](level-10/chapter-22/exercise-6/main.go)                         | Chapter 22 | Level 10 | exercise 6              | Channels |
 | [exercise-7](level-10/chapter-22/exercise-7/main.go)                         | Chapter 22 | Level 10 | exercise 7              | Channels |
 
+### Level 11
+
+| Folder                                               | Chapter    | Level    | Description | Subject       |
+| ---------------------------------------------------- | ---------- | -------- | ----------- | ------------- |
+| [exercise-1](level-11/chapter-24/exercise-1/main.go) | Chapter 24 | Level 11 | exercise 1  | Error handler |
+
 ## Challenges
 
 | Folder                                                  | Chapter   | Description | Subject       |
