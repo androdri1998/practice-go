@@ -1,3 +1,4 @@
+// create a custom error message
 package main
 
 import (
@@ -19,11 +20,18 @@ func main() {
 		Sayings:   []string{"just", "saying", "something"},
 	}
 
-	valueInBytes, err := json.Marshal(p1)
+	valueInBytes, err := toJSON(p1)
 	if err != nil {
-		log.Println(err)
+		log.Println(fmt.Errorf("something wrong happen"))
 		return
 	}
 
 	fmt.Println(string(valueInBytes))
+}
+
+func toJSON(p person) ([]byte, error) {
+
+	valueInBytes, err := json.Marshal(p)
+
+	return valueInBytes, err
 }
