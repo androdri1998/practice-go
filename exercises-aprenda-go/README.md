@@ -126,6 +126,7 @@ Based on YouTube Playlist [Aprenda GO](https://www.youtube.com/playlist?list=PLC
 | ---------------------------------------------------- | ---------- | -------- | ----------- | ------------- |
 | [exercise-1](level-11/chapter-24/exercise-1/main.go) | Chapter 24 | Level 11 | exercise 1  | Error handler |
 | [exercise-2](level-11/chapter-24/exercise-2/main.go) | Chapter 24 | Level 11 | exercise 2  | Error handler |
+| [exercise-3](level-11/chapter-24/exercise-3/main.go) | Chapter 24 | Level 11 | exercise 3  | Error handler |
 
 ## Challenges
 
