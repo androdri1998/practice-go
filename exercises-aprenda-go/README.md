@@ -4,6 +4,12 @@ Based on YouTube Playlist [Aprenda GO](https://www.youtube.com/playlist?list=PLC
 
 ## Exercises
 
+### Challengers
+
+| Folder                   | Description                                      |
+| ------------------------ | ------------------------------------------------ |
+| [challenges](challenges) | This is challenges based in one YouTube Playlist |
+
 ### Level 1
 
 | Folder                                             | Chapter   | Level   | Description | Subject                    |
