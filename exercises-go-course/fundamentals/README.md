@@ -11,3 +11,4 @@
 | types       | There's examples basic types at go lang                                 | [go to](types)       |
 | zero-types  | There's examples about default values of undefined variables at go lang | [go to](zero-types)  |
 | conversions | There's examples about conversions of basic types at go lang            | [go to](conversions) |
+| functions   | There's examples about functions at go lang                             | [go to](functions)   |
