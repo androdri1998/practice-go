@@ -18,3 +18,4 @@
 | logical operator     | There's examples about logical operators at go lang                     | [go to](logical-operators)    |
 | unary operator       | There's examples about unary operators at go lang                       | [go to](logical-operators)    |
 | non-ternary operator | There's examples about non-ternary operators at go lang                 | [go to](non-ternary-operator) |
+| pointers             | There's examples about pointers at go lang                              | [go to](pointers)             |
