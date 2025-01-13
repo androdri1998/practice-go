@@ -4,6 +4,7 @@ Based on GO Course [Go (Golang): Explorando a Linguagem do Google](https://www.u
 
 # Base projects
 
-| Name         | Directory             |
-| ------------ | --------------------- |
-| Fundamentals | [go to](fundamentals) |
+| Name                | Directory                    |
+| ------------------- | ---------------------------- |
+| Fundamentals        | [go to](fundamentals)        |
+| controls-structures | [go to](controls-structures) |
