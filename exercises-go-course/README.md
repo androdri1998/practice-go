@@ -8,3 +8,4 @@ Based on GO Course [Go (Golang): Explorando a Linguagem do Google](https://www.u
 | ------------------- | ---------------------------- |
 | Fundamentals        | [go to](fundamentals)        |
 | controls-structures | [go to](controls-structures) |
+| data-structures     | [go to](data-structures)     |
