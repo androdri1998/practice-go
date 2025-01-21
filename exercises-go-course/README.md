@@ -7,5 +7,6 @@ Based on GO Course [Go (Golang): Explorando a Linguagem do Google](https://www.u
 | Name                | Directory                    |
 | ------------------- | ---------------------------- |
 | Fundamentals        | [go to](fundamentals)        |
-| controls-structures | [go to](controls-structures) |
-| data-structures     | [go to](data-structures)     |
+| Controls Structures | [go to](controls-structures) |
+| Data Structures     | [go to](data-structures)     |
+| Functions           | [go to](functions)           |
