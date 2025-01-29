@@ -3,6 +3,7 @@ package main
 import (
 	"fmt"
 
+	a "github.com/androdri1998/practice-go/exercises-go-course/modules/area"
 	s "github.com/androdri1998/practice-go/exercises-go-course/packages/straight"
 )
 
@@ -15,4 +16,6 @@ func main() {
 	fmt.Println(s.Peccaries(p1, p2))
 	fmt.Println(s.Distance(p1, p2))
 
+	fmt.Println(a.Circle(10))
+	fmt.Println(a.Rect(2, 4))
 }
