@@ -10,3 +10,4 @@ Based on GO Course [Go (Golang): Explorando a Linguagem do Google](https://www.u
 | Controls Structures | [go to](controls-structures) |
 | Data Structures     | [go to](data-structures)     |
 | Functions           | [go to](functions)           |
+| Packages            | [go to](packages)            |
