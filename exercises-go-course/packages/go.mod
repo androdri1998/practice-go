@@ -1,9 +1,7 @@
 module github.com/androdri1998/practice-go/exercises-go-course/packages
 
-require (
-  github.com/androdri1998/practice-go/exercises-go-course/modules/area
-)
-
-replace github.com/androdri1998/practice-go/exercises-go-course/modules/area => ../modules/area
-
 go 1.21.1
+
+require (
+	github.com/androdri1998/testgolibarea v0.0.0-20250129210948-6d4967073fa2 // indirect
+)

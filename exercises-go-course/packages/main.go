@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	a "github.com/androdri1998/practice-go/exercises-go-course/modules/area"
 	s "github.com/androdri1998/practice-go/exercises-go-course/packages/straight"
+	a "github.com/androdri1998/testgolibarea"
 )
 
 func main() {
