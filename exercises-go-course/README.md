@@ -11,3 +11,4 @@ Based on GO Course [Go (Golang): Explorando a Linguagem do Google](https://www.u
 | Data Structures     | [go to](data-structures)     |
 | Functions           | [go to](functions)           |
 | Packages            | [go to](packages)            |
+| Concurrency         | [go to](concurrency)         |
