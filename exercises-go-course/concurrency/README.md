@@ -12,3 +12,4 @@
 | Channels and buffers          | There's some examples about deadlocks while use channels at go lang             | [go to](buffer)        |
 | Channels with range and close | There's some examples about range and close while use channels at go lang       | [go to](range-close)   |
 | Generators                    | There's some examples about concurrency pattern of generator at go lang         | [go to](generator)     |
+| Multiplexing                  | There's some examples about concurrency pattern of multiplexing at go lang      | [go to](multiplexing)  |
