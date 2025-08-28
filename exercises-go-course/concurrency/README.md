@@ -2,15 +2,16 @@
 
 ## Topics
 
-| Name                          | Description                                                                     | Directory              |
-| ----------------------------- | ------------------------------------------------------------------------------- | ---------------------- |
-| cpus                          | There's some examples about check numbers of cpus at go lang                    | [go to](cpus)          |
-| go routines                   | There's some examples about go routines at go lang                              | [go to](go-routines)   |
-| channel basics                | There's some examples about basic channels use at go lang                       | [go to](channel-basic) |
-| channels and go routines      | There's some examples about integration of channels with go routines at go lang | [go to](channel-go)    |
-| Channels and Deadlocks        | There's some examples about deadlocks while use channels at go lang             | [go to](deadlocks)     |
-| Channels and buffers          | There's some examples about deadlocks while use channels at go lang             | [go to](buffer)        |
-| Channels with range and close | There's some examples about range and close while use channels at go lang       | [go to](range-close)   |
-| Generators                    | There's some examples about concurrency pattern of generator at go lang         | [go to](generator)     |
-| Multiplexing                  | There's some examples about concurrency pattern of multiplexing at go lang      | [go to](multiplexing)  |
-| Select                        | There's some examples about concurrency control structure of select at go lang  | [go to](select)        |
+| Name                          | Description                                                                                                         | Directory                    |
+| ----------------------------- | ------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
+| cpus                          | There's some examples about check numbers of cpus at go lang                                                        | [go to](cpus)                |
+| go routines                   | There's some examples about go routines at go lang                                                                  | [go to](go-routines)         |
+| channel basics                | There's some examples about basic channels use at go lang                                                           | [go to](channel-basic)       |
+| channels and go routines      | There's some examples about integration of channels with go routines at go lang                                     | [go to](channel-go)          |
+| Channels and Deadlocks        | There's some examples about deadlocks while use channels at go lang                                                 | [go to](deadlocks)           |
+| Channels and buffers          | There's some examples about deadlocks while use channels at go lang                                                 | [go to](buffer)              |
+| Channels with range and close | There's some examples about range and close while use channels at go lang                                           | [go to](range-close)         |
+| Generators                    | There's some examples about concurrency pattern of generator at go lang                                             | [go to](generator)           |
+| Multiplexing                  | There's some examples about concurrency pattern of multiplexing at go lang                                          | [go to](multiplexing)        |
+| Select                        | There's some examples about concurrency control structure of select at go lang                                      | [go to](select)              |
+| Multiplexing and Select       | There's some examples about concurrency control structure of select and multiplexing concurrency pattern at go lang | [go to](select-multiplexing) |

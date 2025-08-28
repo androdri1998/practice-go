@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	p "github.com/androdri1998/practice-go/exercises-go-course/concurrency/multiplexing/places"
+	p "github.com/androdri1998/practice-go/exercises-go-course/concurrency/select/places"
 )
 
 func faster(runner1, runner2, runner3 string) string {
@@ -20,7 +20,7 @@ func faster(runner1, runner2, runner3 string) string {
 	case r3 := <-ch3:
 		return r3
 	case <-time.After(4000 * time.Millisecond):
-		return "All lose the run"
+		return "All runners lose the run"
 	}
 }
 

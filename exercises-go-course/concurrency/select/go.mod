@@ -1,3 +1,3 @@
-module github.com/androdri1998/practice-go/exercises-go-course/concurrency/multiplexing
+module github.com/androdri1998/practice-go/exercises-go-course/concurrency/select
 
 go 1.21.1
